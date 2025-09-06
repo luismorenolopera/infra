@@ -62,25 +62,25 @@ Enjoy!
 
 Below are screenshots from the AWS Console showing the main components of the project:
 
-- ![S3 Bucket](../img/s3.png)
+- ![S3 Bucket](img/s3.png)
   *S3 bucket with raw data files.*
 
-- ![Lambda Function](../img/lambda.png)
+- ![Lambda Function](img/lambda.png)
   *Lambda function for extracting and saving user data.*
 
-- ![Glue Database](../img/glue.png)
+- ![Glue Database](img/glue.png)
   *Glue database and table created by the crawler.*
 
-- ![Glue Crawler](../img/crawler.png)
+- ![Glue Crawler](img/crawler.png)
   *Glue crawler configuration and execution status.*
 
-- ![Lake Formation](../img/lake_formation.png)
+- ![Lake Formation](img/lake_formation.png)
   *Lake Formation settings and permissions for data access.*
 
-- ![Athena Query](../img/aws_athena.png)
+- ![Athena Query](img/aws_athena.png)
   *Athena query results for the users table.*
 
-- ![DataZone Domain](../img/data_zone.png)
+- ![DataZone Domain](img/data_zone.png)
   *Amazon DataZone domain and data asset evidence.*
 
 ---
